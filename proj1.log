@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=latex 2023.11.30)  7 MAR 2024 01:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=latex 2023.11.30)  7 MAR 2024 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,11 +307,11 @@ LaTeX Font Info:    ... okay on input line 13.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(51.21504pt, 517.84006pt, 28.45277pt)
-* v-part:(T,H,B)=(51.21504pt, 694.24707pt, 99.58473pt)
+* v-part:(T,H,B)=(51.21504pt, 685.71158pt, 108.12022pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=517.84006pt
-* \textheight=694.24707pt
+* \textheight=685.71158pt
 * \oddsidemargin=-21.05495pt
 * \evensidemargin=-21.05495pt
 * \topmargin=-58.05495pt
@@ -381,4 +381,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,82p,250b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on proj1.dvi (1 page, 12596 bytes).
+Output written on proj1.dvi (1 page, 12604 bytes).
